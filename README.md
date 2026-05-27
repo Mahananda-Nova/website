@@ -1,6 +1,7 @@
 # website
 
-html
-css
-javascript
-backend
+## Technologies used
+- html 
+- css
+- javascript
+- backend
