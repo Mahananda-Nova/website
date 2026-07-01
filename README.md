@@ -3,5 +3,4 @@
 ## Technologies used
 - html 
 - css
-- javascript
-- backend
+  
